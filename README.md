@@ -1,2 +1,2 @@
 # TCG15EcoVF
-Landing Page para a IMAC
+Landing Page criada para a IMAC.
